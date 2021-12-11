@@ -1,5 +1,5 @@
-message_id
+00001
 Russian
-Mishanya
+Доброго времени суток уважаемые игроки. Вот и долгожданное обновление нашей игры. Отныне мы будем регулярно обновлять игру а после выйдем в полноценный релиз. Не забывайте вступать к нам в Discord, смотреть нас на YouTube и читать новости про игру у нас во Вконтакте. С уважением команда разработчиков. Так-же если вы нашли какие либо баги, недоработки, либо хотите предложить как улучшить игру - пишите нам на почту games.hailtih@gmail.com
 English
-Мишаня
+Good day, dear players. That's the long-awaited update of our game. From now on, we will update the game regularly and then we will go into a full release. Do not forget to join us in Discord, watch us on YouTube and read the news about the game in our Vkontakte. Sincerely, the development team. Also, if you find any bugs, flaws, or want to suggest how to improve the game - write us an email: games.hailtih@gmail.com
